@@ -3,7 +3,7 @@
 
 ## A SIMPLE WEBSITE
 
-#### This web page is hosted [here!](https://ujjwalpanchal07.github.io/Just-do-it/)
+#### This web page is hosted [here!](https://ujjwalpanchal07.github.io/Interactive-Resume-Builder/)
 
 ### *Features*:
 
