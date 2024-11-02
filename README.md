@@ -17,6 +17,6 @@
 
 ## *WEBSITE DEMO*
 
-![Screenshot 2024-09-18 230144](https://github.com/user-attachments/assets/28b43d20-7f98-4291-aa3a-1c6ba07b462c)
+![Screenshot 2024-09-18 230144](https://raw.githubusercontent.com/UjjwalPanchal07/Interactive-Resume-Builder/refs/heads/main/assets/images/dublin-resume-templates.avif)
 
 
