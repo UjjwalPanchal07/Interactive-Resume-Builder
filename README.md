@@ -18,5 +18,5 @@
 ## *WEBSITE DEMO*
 
 ![Screenshot 2024-09-18 230144](https://raw.githubusercontent.com/UjjwalPanchal07/Interactive-Resume-Builder/refs/heads/main/assets/images/dublin-resume-templates.avif)
-
+![Screenshot 2024-09-18 230144](https://github.com/UjjwalPanchal07/Interactive-Resume-Builder/blob/main/assets/images/varsha_img.jpg)
 
